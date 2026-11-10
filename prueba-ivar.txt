@@ -1,0 +1,7 @@
+PRACTICA GIT FLOW
+
+Nombre: Ivar Ignacio Tarifa Castillo
+Usuario GitHub: Ivar824
+
+Estoy trabajando en el repositorio Desarrollo_Sistemas.
+Esta es mi primera rama feature.
